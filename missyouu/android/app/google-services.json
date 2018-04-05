@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579607405683",
+    "firebase_url": "https://missyou-86a58.firebaseio.com",
+    "project_id": "missyou-86a58",
+    "storage_bucket": "missyou-86a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579607405683:android:0d5762091dd7ed9a",
+        "android_client_info": {
+          "package_name": "com.missyouu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579607405683-eojqdllmcguoe5n8d3li57uer2rqlpme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrHtTEBW4GdrHyReifZjigjzPQ8wrqsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

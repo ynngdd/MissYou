@@ -1,4 +1,4 @@
-#Wed Mar 21 23:32:44 EET 2018
-base.0=/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Mar 22 22:17:26 EET 2018
+base.0=/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

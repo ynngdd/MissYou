@@ -4,20 +4,39 @@ import {Header, Container, Content, Title, Footer, Button, Left, Right, Body, Ic
 import MainHeader from './components/header'
 import BodyContainer from './components/body'
 import FooterContainer from './components/footer'
-import {DrawerNavigator} from 'react-navigation'
-import FirstScreen from './components/sidebar';
-
+import {DrawerNavigator,DrawerItems} from 'react-navigation'
+import FirstScreen from './components/mainscreen'
+import StatsScreen from './components/statsscreen'
+import SettingsScreen from './components/settingsscreen'
+import SideMenu from './components/sidescreen'
 const DrawerExample = DrawerNavigator(
   {
-    First:{
+    Main:{
       path: '/',
       screen: FirstScreen,
-    }
+    },
+    Statistics:{
+      path: '/stats',
+      screen: StatsScreen,
+    },
+    Settings:{
+      path: '/settings',
+      screen: SettingsScreen,
+    },
   },
   {
-    initialRouteName: 'First',
-    drawerPosition: 'left'
-  }
+    initialRouteName: 'Main',
+    drawerPosition: 'left',
+    drawerBackgroundColor: "rgb(254,232,233)",    
+    contentComponent: (props) =>
+    <View style={{flex: 1}}>
+    <Text style={{backgroundColor:'#9B242D',paddingBottom: 150}}></Text>
+    <ScrollView>
+    <DrawerItems {...props} />
+    </ScrollView>
+    </View>
+    
+  },
+
 )
 export default DrawerExample;
-
