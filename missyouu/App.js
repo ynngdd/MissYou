@@ -9,6 +9,9 @@ import FirstScreen from './components/mainscreen'
 import StatsScreen from './components/statsscreen'
 import SettingsScreen from './components/settingsscreen'
 import SideMenu from './components/sidescreen'
+import Database from './components/database'
+import FirebaseConfig from './components/firebaseConfig'
+
 const DrawerExample = DrawerNavigator(
   {
     Main:{
@@ -35,8 +38,8 @@ const DrawerExample = DrawerNavigator(
     <DrawerItems {...props} />
     </ScrollView>
     </View>
-    
   },
+  
 
 )
 export default DrawerExample;

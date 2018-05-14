@@ -3,12 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d7139b6b1c264ce5af806c7ff5e2ae1927cf719e.jar" />
+        revision="26.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b89bbce689abb6348f39a47dcba3947eef8a9fd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,24 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_14b1f942e2e473773b8722e54107fd5e2567b4d6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/yanngodd/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_cc96283ee75537193955f62ac233e06b5b299406.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -66,21 +57,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6961583618de63e791588a31337bb91670c4a276.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
         <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_1c647c15117c80f637c2afb4628379c3d8e1b49e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/internal_impl-23.0.1_5da1ccaeee4cf21b4a9f14973e6f2c4584afbcad.jar" />
     </item>
     <item
         is-multidex="false"
@@ -120,6 +111,240 @@
     </item>
     <item
         is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fbcore-1.3.0_5e82a6f1257e6f60645f867797102de424e7ee8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.react-react-native-0.54.2_a678e21a17b2e66cb26d122a76bb0543c459ee19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_01af53ca14196286e155a7b472929cd622d9bca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c4d0d731500d9b43c5a151cbc349f002fb771874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-base-1.3.0_08b30d995fdcd2dcc08c300be20f5b23c74748ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d0d93ab4a77bbe9a69dddefbe637a2d74509b45c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yanngodd/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_11149d390628f1af2d37614b1360ad1ea251341a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b25b370483710833c55982160a74e126527716cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a53eb1aefc4ff40033eca803c97e92bcd5fc9ff4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-imagepipeline-1.3.0_594f656336bc94fc333db288a7da2507091c71a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_03dc04fb647a3f187b16bc21ed3c6abb6bac8e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yanngodd/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8cc489a703c08f49db409a7b94408b3cdbda5bac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c68eef6c16727867b501d1d718b07a65a4242584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d7139b6b1c264ce5af806c7ff5e2ae1927cf719e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-support-v4-23.0.1_66920218a112b5565eeb2efeabb4347b0e5af092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.android.support-appcompat-v7-23.0.1_1685efa27bd6f3b7e6f25147121e195215d17149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="112e6935caed6ca1c65d627777c76f0296f62867">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.54.2_14b1f942e2e473773b8722e54107fd5e2567b4d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yanngodd/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_cc96283ee75537193955f62ac233e06b5b299406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6961583618de63e791588a31337bb91670c4a276.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.soloader-soloader-0.1.0_6d77174d191d8747bc7b05d6054cb94b04db87af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/infer-annotations-4.0_9021ae1688a52fb7a1ccdb81d48a75828236833f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-fresco-1.3.0_f366c0920cc9da4d1e2dc08b3b736eea32f9bce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/missyouu/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -147,6 +372,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fresco-drawee-1.3.0_7dd440903c8c9b58c1f8893287cc9306c7ea7081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -165,30 +408,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_01af53ca14196286e155a7b472929cd622d9bca3.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
         <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_aa0636e4fd2d0293f0e49b413d9b6f188e824a96.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c4d0d731500d9b43c5a151cbc349f002fb771874.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,21 +453,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.54.2/jars/libs/infer-annotations-4.0.jar"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d0d93ab4a77bbe9a69dddefbe637a2d74509b45c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/yanngodd/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_11149d390628f1af2d37614b1360ad1ea251341a.jar" />
+        revision="26.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_987830e1cf8a3e6637122d7371330047e40bdebb.jar" />
     </item>
     <item
         is-multidex="false"
@@ -255,21 +471,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jar="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/bundles/debug/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_b25b370483710833c55982160a74e126527716cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a53eb1aefc4ff40033eca803c97e92bcd5fc9ff4.jar" />
+        revision="26.0.1"
+        sha1="afa437292dfd683764716e3041ce45caaaed6913">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/classes_6cafc3b895e1b6b577a7893e591b05725aceddfa.jar" />
     </item>
     <item
         is-multidex="false"
@@ -279,6 +486,24 @@
         revision="23.0.1"
         sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
         <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_c8cf754673a0d2aa5b1a9a7a023ab0d68e9969b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yanngodd/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/run/media/yanngodd/HDD/MissYou/missyouu/node_modules/react-native-vector-icons/android/build/intermediates/pre-dexed/androidTest/debug/support-annotations-23.0.1_420bcacc9d4af108cd2e63f346ec4b56865f57b1.jar" />
     </item>
     <item
         is-multidex="false"
@@ -297,33 +522,6 @@
         revision="23.0.1"
         sha1="8f615bca00639150c9eb6175d4b5471193f70794">
         <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_50c34931b7a2918b1e276866266a38aa5f44d3b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_03dc04fb647a3f187b16bc21ed3c6abb6bac8e9c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/yanngodd/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_8cc489a703c08f49db409a7b94408b3cdbda5bac.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/run/media/yanngodd/HDD/missyouu/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_c68eef6c16727867b501d1d718b07a65a4242584.jar" />
     </item>
 
 </items>

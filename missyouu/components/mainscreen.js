@@ -6,6 +6,8 @@ import MaterialIcons from 'react-native-vector-icons'
 import MainHeader from './header'
 import BodyContainer from './body'
 import FooterContainer from './footer'
+import Database from './database'
+
 export default class FirstScreen extends Component {
     static navigationOptions ={
         tabBarLabel: 'Main',
@@ -16,6 +18,13 @@ export default class FirstScreen extends Component {
             );
 
         }
+    }
+    
+    constructor(props){
+        super(props)
+        var db = new Database();
+        db.writeUserData(1, 'yasen', 'yas123@abv.bg', 'htttppssguzami')
+        console.log(db);
     }
     render()    {
         return <View>
